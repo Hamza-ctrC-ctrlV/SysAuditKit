@@ -123,4 +123,4 @@ sudo dpkg -r sysauditkit
 ![Search](./img/seach_result.png)
 
 * Unistall <br>
-![Unistall](./img/Unistall.png)
+![Unistall](./img/unistall.png)
