@@ -1,0 +1,7 @@
+Package: sysauditkit
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: all
+Maintainer: hamza <hamzahalouani4@gmail.com>
+Description: System Audit Kit for Linux 
