@@ -68,7 +68,11 @@ sysauditkit/
 ## Installation
 Téléchargez le fichier `.deb` et installez-le :
 ```bash
+<<<<<<< HEAD
 sudo dpkg -i sysauditkit_1.0_all.deb
+=======
+sudo dpkg -i sysauditkit.deb
+>>>>>>> 353d380350fb142f85ffd916a2070694217075fb
 ```
 ## Commandes
 Une fois installé, l'outil est disponible globalement :
@@ -95,6 +99,7 @@ sudo dpkg -r sysauditkit
 ```
 ## 📸 Captures d'écran
 * Installation du paquet <br>
+<<<<<<< HEAD
 ![Install](./img/install.png)
 
 * installation status <br>
@@ -122,5 +127,16 @@ sudo dpkg -r sysauditkit
 * Search result <br>
 ![Search](./img/seach_result.png)
 
+=======
+![Install](./img/instalation_help.png)
+* installation status <br>
+![status](./img/dpkg_l.png)
+* init module <br>
+![init](./img/init.png)
+* monitor module <br>
+![monitor](./img/monitor.png)
+* Repport module <br>
+![Repport](./img/report.png)
+>>>>>>> 353d380350fb142f85ffd916a2070694217075fb
 * Unistall <br>
 ![Unistall](./img/Unistall.png)
