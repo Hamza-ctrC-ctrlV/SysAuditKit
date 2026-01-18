@@ -68,7 +68,7 @@ sysauditkit/
 ## Installation
 Téléchargez le fichier `.deb` et installez-le :
 ```bash
-sudo dpkg -i sysauditkit_1.0_all.deb
+sudo dpkg -i sysauditkit.deb
 ```
 ## Commandes
 Une fois installé, l'outil est disponible globalement :
